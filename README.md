@@ -4,7 +4,7 @@ This repository contains a Java-based academic project developed across two Obje
 
 ## Project Evolution
 
-### 1. OOP1 - Online Ticket Booking System (Project1) [Online Ticket Booking System](NetBeansProjects/project1/README.md)
+### 1. OOP1 - [Online Ticket Booking System](NetBeansProjects/project1/README.md) (Project1) 
 - A console-based Java application for learning OOP concepts in a practical setting.
 - Features multiple user roles: Admin, Customer, Guest.
 - Supports booking for movies and travel events.
@@ -13,7 +13,7 @@ This repository contains a Java-based academic project developed across two Obje
 - Folder: `Project1/`
 - UML diagrams included in `Project1/digram/`
   
-### 2. OOP2 - Traveling Booking System (Project2)
+### 2. OOP2 - [Traveling Booking System](NetBeansProjects/project2/README.md) (Project2)
 - A GUI-based Java application for travel ticket booking (bus, train, flight).
 - Multi-user system: Passengers and Admins with separate interfaces.
 - Integrated with a database for persistent data storage.
