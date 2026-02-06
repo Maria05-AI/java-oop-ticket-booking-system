@@ -1,0 +1,39 @@
+# Traveling Booking System
+
+## Description
+This is a GUI-based Java project developed as part of OOP2 course. 
+It builds on the first project and focuses on travel ticket booking (bus, train, flight) with database integration for persistent storage.
+
+The project demonstrates OOP, GUI, and Database concepts for a real-world application, with code organized in packages for maintainability.
+
+## Features
+
+### 1. User Roles & Authentication
+- Dual login interfaces: Passengers and Admins
+- Account creation and password recovery via email
+
+### 2. Passenger Features
+- Flexible booking (choose type of trip, departure/arrival, date/time)
+- Ticket options: Standard or VIP with automatic total cost calculation
+- Payment interface (cash or card)
+- Booking history with full details
+- Review and rating system (1-5 stars)
+
+### 3. Admin Features
+- Central control panel with statistics (total users, sold tickets, active bookings)
+- Manage users (add, delete, modify)
+- Manage trips (add/update/delete schedules)
+- Manage bookings (view, cancel, modify)
+- Data Export (CSV files)
+
+### 4. Technical Quality
+- Database connection using Singleton pattern (`DBConnection`)
+- Error handling using Try-Catch blocks
+- Responsive GUI with SwingUtilities.invokeLater (Thread Safety)
+- Input validation to ensure data integrity
+
+## Project Structure
+- **Data Export-Import**: database files
+- **code**: Java source code
+- **digram**: UML, Use Case, Mapping diagrams..
+- **Overview about the interface**: PDF explaining interface design with screenshots
