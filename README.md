@@ -1,4 +1,3 @@
-# java-oop-ticket-booking-system
 # Java OOP Booking System (OOP1 & OOP2)
 
 This repository contains a Java-based academic project developed across two Object-Oriented Programming courses.
