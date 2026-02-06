@@ -4,7 +4,7 @@ This repository contains a Java-based academic project developed across two Obje
 
 ## Project Evolution
 
-### 1. OOP1 - Online Ticket Booking System (Project1)
+### 1. OOP1 - Online Ticket Booking System (Project1) [Online Ticket Booking System](Project1/README.md)
 - A console-based Java application for learning OOP concepts in a practical setting.
 - Features multiple user roles: Admin, Customer, Guest.
 - Supports booking for movies and travel events.
