@@ -4,17 +4,25 @@ This repository contains a Java-based academic project developed across two Obje
 
 ## Project Evolution
 
-### OOP1 – General Booking System
-- Initial implementation covering multiple booking domains (events and travel).
-- Focused on applying core Object-Oriented Programming principles.
-- Implemented multiple user roles and basic system functionality.
+### 1. OOP1 - Online Ticket Booking System (Project1)
+- A console-based Java application for learning OOP concepts in a practical setting.
+- Features multiple user roles: Admin, Customer, Guest.
+- Supports booking for movies and travel events.
+- Stores data temporarily in memory using ArrayLists.
+- Focused on implementing core OOP principles: Inheritance, Abstraction, Polymorphism.
+- Folder: `Project1/`
+- UML diagrams included in `Project1/digram/`
+  
+### 2. OOP2 - Traveling Booking System (Project2)
+- A GUI-based Java application for travel ticket booking (bus, train, flight).
+- Multi-user system: Passengers and Admins with separate interfaces.
+- Integrated with a database for persistent data storage.
+- Implements OOP, GUI, and Database concepts for real-world application.
+- Folder: `Project2/`
+- Includes UML diagrams, Use Case, Mapping diagrams in `Project2/digram/`
+- Overview PDF about the interface in `Project2/Overview about the interface/`
 
-### OOP2 – Travel Booking System
-- Enhanced version of the project with the scope narrowed to travel booking only.
-- Improved class hierarchy and system structure.
-- Added more advanced features and better code organization.
-
-## Key Features
+## Key Features in both
 - Role-based system design
 - Ticket booking and management
 - Improved class relationships and modular design
